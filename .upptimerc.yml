@@ -3,14 +3,16 @@ owner: Groundtruth # Your GitHub organization or username, where this repository
 repo: upptime-status-page # The name of this repository
 
 sites:
-  - name: Groundtruth
-    url: https://www.groundtruth.co.nz
-  - name: Trap.NZ
+  - name: www.trap.nz
     url: https://trap.nz
-  - name: Weed Manager
+  - name: api.trap.nz
+    url: https://api.trap.nz
+  - name: www.weedmanager.nz
     url: https://weedmanager.nz
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: www.groundtruth.co.nz
+    url: https://www.groundtruth.co.nz
+  - name: songbird.groundtruth.co.nz
+    url: https://songbird.groundtruth.co.nz/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -20,14 +22,14 @@ status-website:
   #baseUrl: /upptime-status-page
   logoUrl: https://github.com/Groundtruth/upptime-status-page/raw/0e35e91ddc45f61a91557b1c39cd7275c8b19338/assets/groundtruth.png
   name: Groundtruth
-  # theme: dark
+  theme: dark
   #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Groundtruth Status
       href: /
-    - title: Trap.NZ
-      href: http://trap.nz
+  #  - title: Trap.NZ
+  #    href: http://trap.nz
   #  - title: GitHub
   #    href: https://github.com/$OWNER/$REPO
 
