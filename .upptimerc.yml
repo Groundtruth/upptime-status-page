@@ -15,8 +15,9 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: status.groundtruth.co.nz
-  baseUrl: /upptime-status-page
+  cname: status.groundtruth.co.nz
+  baseUrl: /
+  #baseUrl: /upptime-status-page
   logoUrl: https://github.com/Groundtruth/upptime-status-page/raw/0e35e91ddc45f61a91557b1c39cd7275c8b19338/assets/groundtruth.png
   name: Groundtruth
   # theme: dark
