@@ -55,9 +55,9 @@
     "url": "https://weedmanager.nz",
     "icon": "https://favicons.githubusercontent.com/weedmanager.nz",
     "slug": "www-weedmanager-nz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -66,7 +66,9 @@
     "timeWeek": 856,
     "timeMonth": 856,
     "timeYear": 859,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-26": 0
+    }
   },
   {
     "name": "www.groundtruth.co.nz",
