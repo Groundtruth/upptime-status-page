@@ -5,21 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/trap.nz",
     "slug": "www-trap-nz",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 1142,
-    "timeDay": 808,
-    "timeWeek": 808,
+    "uptimeYear": "100.00%",
+    "time": 1138,
+    "timeDay": 802,
+    "timeWeek": 814,
     "timeMonth": 844,
-    "timeYear": 1142,
-    "dailyMinutesDown": {
-      "2021-09-06": 12,
-      "2021-09-05": 12,
-      "2021-09-03": 11
-    }
+    "timeYear": 1138,
+    "dailyMinutesDown": {}
   },
   {
     "name": "api.trap.nz",
@@ -27,20 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/api.trap.nz",
     "slug": "api-trap-nz",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 951,
-    "timeDay": 900,
-    "timeWeek": 987,
-    "timeMonth": 932,
-    "timeYear": 951,
-    "dailyMinutesDown": {
-      "2021-09-05": 12,
-      "2021-09-03": 11
-    }
+    "uptimeYear": "100.00%",
+    "time": 950,
+    "timeDay": 826,
+    "timeWeek": 957,
+    "timeMonth": 928,
+    "timeYear": 950,
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.weedmanager.nz",
@@ -53,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 856,
-    "timeDay": 763,
-    "timeWeek": 838,
+    "time": 855,
+    "timeDay": 820,
+    "timeWeek": 821,
     "timeMonth": 844,
-    "timeYear": 856,
+    "timeYear": 855,
     "dailyMinutesDown": {}
   },
   {
@@ -71,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2403,
-    "timeDay": 2332,
-    "timeWeek": 2504,
-    "timeMonth": 2404,
-    "timeYear": 2403,
+    "time": 2401,
+    "timeDay": 2247,
+    "timeWeek": 2441,
+    "timeMonth": 2402,
+    "timeYear": 2401,
     "dailyMinutesDown": {}
   },
   {
@@ -84,18 +77,16 @@
     "icon": "https://favicons.githubusercontent.com/songbird.groundtruth.co.nz",
     "slug": "songbird-groundtruth-co-nz",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 861,
-    "timeDay": 935,
-    "timeWeek": 835,
-    "timeMonth": 837,
-    "timeYear": 861,
-    "dailyMinutesDown": {
-      "2021-09-04": 9
-    }
+    "uptimeYear": "100.00%",
+    "time": 865,
+    "timeDay": 1198,
+    "timeWeek": 882,
+    "timeMonth": 846,
+    "timeYear": 865,
+    "dailyMinutesDown": {}
   }
 ]
