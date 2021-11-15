@@ -78,9 +78,9 @@
     "url": "https://songbird.groundtruth.co.nz/",
     "icon": "https://favicons.githubusercontent.com/songbird.groundtruth.co.nz",
     "slug": "songbird-groundtruth-co-nz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,6 +89,8 @@
     "timeWeek": 775,
     "timeMonth": 812,
     "timeYear": 854,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-15": 0
+    }
   }
 ]
