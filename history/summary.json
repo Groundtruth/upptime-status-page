@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/trap.nz",
     "slug": "www-trap-nz",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 1122,
-    "timeDay": 1015,
-    "timeWeek": 1286,
-    "timeMonth": 992,
-    "timeYear": 1122,
-    "dailyMinutesDown": {
-      "2021-11-28": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1120,
+    "timeDay": 930,
+    "timeWeek": 1302,
+    "timeMonth": 996,
+    "timeYear": 1120,
+    "dailyMinutesDown": {}
   },
   {
     "name": "api.trap.nz",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 942,
-    "timeDay": 799,
-    "timeWeek": 864,
-    "timeMonth": 926,
+    "timeDay": 978,
+    "timeWeek": 890,
+    "timeMonth": 928,
     "timeYear": 942,
     "dailyMinutesDown": {}
   },
@@ -49,9 +47,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
     "time": 862,
-    "timeDay": 910,
+    "timeDay": 911,
     "timeWeek": 853,
-    "timeMonth": 869,
+    "timeMonth": 872,
     "timeYear": 862,
     "dailyMinutesDown": {
       "2021-11-10": 37
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2392,
-    "timeDay": 2130,
-    "timeWeek": 2005,
-    "timeMonth": 2404,
-    "timeYear": 2392,
+    "time": 2393,
+    "timeDay": 2495,
+    "timeWeek": 2124,
+    "timeMonth": 2395,
+    "timeYear": 2393,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.95%",
-    "time": 837,
-    "timeDay": 499,
-    "timeWeek": 559,
-    "timeMonth": 782,
-    "timeYear": 837,
+    "time": 838,
+    "timeDay": 1018,
+    "timeWeek": 633,
+    "timeMonth": 785,
+    "timeYear": 838,
     "dailyMinutesDown": {
       "2021-11-15": 66
     }
