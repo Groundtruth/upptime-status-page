@@ -13,7 +13,7 @@
     "time": 1078,
     "timeDay": 852,
     "timeWeek": 934,
-    "timeMonth": 967,
+    "timeMonth": 969,
     "timeYear": 1078,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 962,
     "timeDay": 807,
     "timeWeek": 892,
-    "timeMonth": 888,
+    "timeMonth": 886,
     "timeYear": 962,
     "dailyMinutesDown": {
       "2021-12-06": 20
@@ -44,17 +44,16 @@
     "slug": "www-weedmanager-nz",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 855,
     "timeDay": 697,
     "timeWeek": 852,
-    "timeMonth": 830,
+    "timeMonth": 832,
     "timeYear": 855,
     "dailyMinutesDown": {
-      "2022-04-13": 4,
       "2021-11-10": 37
     }
   },
@@ -72,7 +71,7 @@
     "time": 2412,
     "timeDay": 2201,
     "timeWeek": 2553,
-    "timeMonth": 2341,
+    "timeMonth": 2355,
     "timeYear": 2412,
     "dailyMinutesDown": {}
   },
@@ -90,7 +89,7 @@
     "time": 782,
     "timeDay": 527,
     "timeWeek": 544,
-    "timeMonth": 642,
+    "timeMonth": 646,
     "timeYear": 782,
     "dailyMinutesDown": {
       "2022-02-12": 16,
