@@ -88,9 +88,9 @@
     "slug": "songbird-groundtruth-co-nz",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 777,
     "timeDay": 1430,
@@ -98,7 +98,6 @@
     "timeMonth": 846,
     "timeYear": 777,
     "dailyMinutesDown": {
-      "2022-06-13": 9,
       "2022-02-12": 16,
       "2022-02-06": 182,
       "2021-11-15": 66
