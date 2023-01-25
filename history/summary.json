@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1017,
-    "timeDay": 942,
-    "timeWeek": 1953,
-    "timeMonth": 1177,
-    "timeYear": 1032,
+    "timeDay": 978,
+    "timeWeek": 1836,
+    "timeMonth": 1172,
+    "timeYear": 1031,
     "dailyMinutesDown": {
       "2022-11-13": 45,
       "2022-10-20": 32,
@@ -22,28 +22,6 @@
       "2022-06-21": 56,
       "2022-05-10": 22,
       "2022-04-29": 16
-    }
-  },
-  {
-    "name": "api.trap.nz",
-    "url": "https://api.trap.nz",
-    "icon": "https://icons.duckduckgo.com/ip3/api.trap.nz.ico",
-    "slug": "api-trap-nz",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "97.52%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.98%",
-    "time": 967,
-    "timeDay": 1718,
-    "timeWeek": 1232,
-    "timeMonth": 1025,
-    "timeYear": 962,
-    "dailyMinutesDown": {
-      "2023-01-25": 36,
-      "2022-11-13": 45,
-      "2022-05-10": 21
     }
   },
   {
@@ -58,9 +36,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 881,
-    "timeDay": 923,
-    "timeWeek": 884,
-    "timeMonth": 882,
+    "timeDay": 926,
+    "timeWeek": 889,
+    "timeMonth": 884,
     "timeYear": 887,
     "dailyMinutesDown": {
       "2023-01-25": 34,
@@ -78,10 +56,10 @@
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 2300,
-    "timeDay": 2339,
-    "timeWeek": 2333,
-    "timeMonth": 2229,
+    "time": 2301,
+    "timeDay": 2423,
+    "timeWeek": 2352,
+    "timeMonth": 2237,
     "timeYear": 2259,
     "dailyMinutesDown": {
       "2023-01-22": 27,
@@ -103,7 +81,7 @@
     "uptimeYear": "99.90%",
     "time": 738,
     "timeDay": 761,
-    "timeWeek": 705,
+    "timeWeek": 711,
     "timeMonth": 779,
     "timeYear": 696,
     "dailyMinutesDown": {
