@@ -4,18 +4,20 @@
     "url": "https://trap.nz",
     "icon": "https://icons.duckduckgo.com/ip3/trap.nz.ico",
     "slug": "www-trap-nz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1104,
+    "time": 1106,
     "timeDay": 838,
-    "timeWeek": 974,
+    "timeWeek": 1009,
     "timeMonth": 974,
     "timeYear": 974,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-15": 0
+    }
   },
   {
     "name": "www.weedmanager.nz",
@@ -30,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 913,
     "timeDay": 651,
-    "timeWeek": 869,
+    "timeWeek": 874,
     "timeMonth": 869,
     "timeYear": 869,
     "dailyMinutesDown": {}
@@ -48,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 2190,
     "timeDay": 1653,
-    "timeWeek": 1802,
+    "timeWeek": 1818,
     "timeMonth": 1802,
     "timeYear": 1802,
     "dailyMinutesDown": {}
@@ -66,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 720,
     "timeDay": 587,
-    "timeWeek": 715,
+    "timeWeek": 714,
     "timeMonth": 715,
     "timeYear": 715,
     "dailyMinutesDown": {}
