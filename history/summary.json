@@ -4,19 +4,19 @@
     "url": "https://trap.nz",
     "icon": "https://icons.duckduckgo.com/ip3/trap.nz.ico",
     "slug": "www-trap-nz",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1112,
-    "timeDay": 1032,
-    "timeWeek": 1004,
-    "timeMonth": 999,
-    "timeYear": 999,
+    "timeDay": 1116,
+    "timeWeek": 1026,
+    "timeMonth": 1012,
+    "timeYear": 1012,
     "dailyMinutesDown": {
-      "2024-02-21": 0
+      "2024-02-21": 7
     }
   },
   {
