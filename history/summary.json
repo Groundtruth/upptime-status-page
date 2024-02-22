@@ -6,18 +6,16 @@
     "slug": "www-trap-nz",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1112,
-    "timeDay": 1116,
-    "timeWeek": 1026,
-    "timeMonth": 1012,
-    "timeYear": 1012,
-    "dailyMinutesDown": {
-      "2024-02-21": 7
-    }
+    "timeDay": 946,
+    "timeWeek": 1010,
+    "timeMonth": 993,
+    "timeYear": 993,
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.weedmanager.nz",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 917,
-    "timeDay": 1064,
-    "timeWeek": 1019,
-    "timeMonth": 959,
-    "timeYear": 959,
+    "time": 915,
+    "timeDay": 746,
+    "timeWeek": 1032,
+    "timeMonth": 945,
+    "timeYear": 945,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2175,
-    "timeDay": 2057,
-    "timeWeek": 1810,
-    "timeMonth": 1816,
-    "timeYear": 1816,
+    "time": 2170,
+    "timeDay": 1665,
+    "timeWeek": 1812,
+    "timeMonth": 1807,
+    "timeYear": 1807,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 724,
-    "timeDay": 899,
-    "timeWeek": 776,
-    "timeMonth": 752,
-    "timeYear": 752,
+    "time": 723,
+    "timeDay": 715,
+    "timeWeek": 794,
+    "timeMonth": 750,
+    "timeYear": 750,
     "dailyMinutesDown": {}
   }
 ]
