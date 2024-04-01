@@ -60,10 +60,10 @@
     "url": "https://songbird.groundtruth.co.nz/",
     "icon": "https://icons.duckduckgo.com/ip3/songbird.groundtruth.co.nz.ico",
     "slug": "songbird-groundtruth-co-nz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.28%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "96.27%",
     "uptimeMonth": "98.37%",
     "uptimeYear": "99.86%",
     "time": 810,
@@ -72,6 +72,7 @@
     "timeMonth": 1128,
     "timeYear": 971,
     "dailyMinutesDown": {
+      "2024-04-01": 0,
       "2024-03-25": 375,
       "2024-03-20": 340,
       "2024-02-25": 26
