@@ -1,7 +1,7 @@
 url: https://www.groundtruth.co.nz
-status: up
-code: 200
-responseTime: 1490
-lastUpdated: 2024-06-19T23:02:13.473Z
+status: down
+code: 502
+responseTime: 1211
+lastUpdated: 2024-06-20T19:00:01.581Z
 startTime: 2021-08-25T05:16:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
