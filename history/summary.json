@@ -13,7 +13,7 @@
     "time": 1087,
     "timeDay": 831,
     "timeWeek": 905,
-    "timeMonth": 899,
+    "timeMonth": 900,
     "timeYear": 991,
     "dailyMinutesDown": {
       "2024-05-06": 18,
@@ -35,7 +35,7 @@
     "time": 1011,
     "timeDay": 1056,
     "timeWeek": 1004,
-    "timeMonth": 1064,
+    "timeMonth": 1065,
     "timeYear": 1103,
     "dailyMinutesDown": {
       "2024-06-30": 27,
@@ -50,18 +50,16 @@
     "slug": "www-groundtruth-co-nz",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2028,
     "timeDay": 1651,
     "timeWeek": 1758,
-    "timeMonth": 1803,
+    "timeMonth": 1809,
     "timeYear": 1869,
-    "dailyMinutesDown": {
-      "2024-06-30": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "songbird.groundtruth.co.nz",
@@ -77,7 +75,7 @@
     "time": 804,
     "timeDay": 599,
     "timeWeek": 651,
-    "timeMonth": 724,
+    "timeMonth": 725,
     "timeYear": 851,
     "dailyMinutesDown": {
       "2024-04-08": 17,
