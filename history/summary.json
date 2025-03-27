@@ -40,7 +40,7 @@
     "url": "https://www.groundtruth.co.nz",
     "icon": "https://icons.duckduckgo.com/ip3/www.groundtruth.co.nz.ico",
     "slug": "www-groundtruth-co-nz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 2042,
     "timeDay": 2314,
-    "timeWeek": 2239,
+    "timeWeek": 2257,
     "timeMonth": 2216,
     "timeYear": 2041,
     "dailyMinutesDown": {}
@@ -67,7 +67,7 @@
     "time": 811,
     "timeDay": 825,
     "timeWeek": 727,
-    "timeMonth": 728,
+    "timeMonth": 733,
     "timeYear": 796,
     "dailyMinutesDown": {}
   }
