@@ -58,17 +58,17 @@
     "url": "https://songbird.groundtruth.co.nz/",
     "icon": "https://icons.duckduckgo.com/ip3/songbird.groundtruth.co.nz.ico",
     "slug": "songbird-groundtruth-co-nz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 860,
-    "timeDay": 734,
-    "timeWeek": 739,
-    "timeMonth": 906,
-    "timeYear": 851,
+    "time": 895,
+    "timeDay": 10329,
+    "timeWeek": 3137,
+    "timeMonth": 1420,
+    "timeYear": 897,
     "dailyMinutesDown": {}
   }
 ]
