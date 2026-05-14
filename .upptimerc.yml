@@ -7,14 +7,17 @@ sites:
     url: https://trap.nz
   - name: help.trap.nz
     url: https://help.trap.nz
+    icon: https://trap.nz/favicon.ico
   - name: help.rappt.io
     url: https://help.rappt.io
+    icon: https://rappt.io/sites/all/themes/rappt/favicon.ico
   - name: www.weedmanager.nz
     url: https://weedmanager.nz
   - name: www.groundtruth.co.nz
     url: https://www.groundtruth.co.nz
   - name: help.groundtruth.co.nz
     url: https://help.groundtruth.co.nz
+    icon: https://groundtruth.co.nz/wp-content/uploads/2019/10/groundtruth-logo-square.png
   - name: songbird.groundtruth.co.nz
     url: https://songbird.groundtruth.co.nz/
 
