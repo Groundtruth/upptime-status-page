@@ -5,10 +5,16 @@ repo: upptime-status-page # The name of this repository
 sites:
   - name: www.trap.nz
     url: https://trap.nz
+  - name: help.trap.nz
+    url: https://help.trap.nz
+  - name: help.rappt.io
+    url: https://help.rappt.io
   - name: www.weedmanager.nz
     url: https://weedmanager.nz
   - name: www.groundtruth.co.nz
     url: https://www.groundtruth.co.nz
+  - name: help.groundtruth.co.nz
+    url: https://help.groundtruth.co.nz
   - name: songbird.groundtruth.co.nz
     url: https://songbird.groundtruth.co.nz/
 
