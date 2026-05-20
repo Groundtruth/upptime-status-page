@@ -58,16 +58,16 @@
     "url": "https://weedmanager.nz",
     "icon": "https://icons.duckduckgo.com/ip3/weedmanager.nz.ico",
     "slug": "www-weedmanager-nz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 920,
-    "timeDay": 854,
-    "timeWeek": 881,
-    "timeMonth": 935,
+    "timeDay": 845,
+    "timeWeek": 877,
+    "timeMonth": 932,
     "timeYear": 910,
     "dailyMinutesDown": {}
   },
@@ -122,7 +122,7 @@
     "timeDay": 326,
     "timeWeek": 585,
     "timeMonth": 592,
-    "timeYear": 1136,
+    "timeYear": 1127,
     "dailyMinutesDown": {}
   }
 ]
