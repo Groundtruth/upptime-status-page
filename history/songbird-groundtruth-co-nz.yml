@@ -1,7 +1,7 @@
 url: https://songbird.groundtruth.co.nz/
-status: up
-code: 200
-responseTime: 805
-lastUpdated: 2026-07-02T23:22:54.984Z
+status: down
+code: 503
+responseTime: 5227
+lastUpdated: 2026-07-03T12:02:50.850Z
 startTime: 2021-08-25T05:16:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
