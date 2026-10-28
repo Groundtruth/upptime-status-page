@@ -1,7 +1,7 @@
 url: https://trap.nz
-status: down
-code: 503
-responseTime: 42
-lastUpdated: 2026-10-28T06:36:54.796Z
+status: up
+code: 200
+responseTime: 1137
+lastUpdated: 2026-10-28T07:16:29.604Z
 startTime: 2021-08-25T05:16:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
